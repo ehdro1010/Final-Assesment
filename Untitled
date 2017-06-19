@@ -1,0 +1,29 @@
+
+
+
+PROGRAM StepsToRoom	
+ Start from front school entrance;
+ Open door;
+ Walk 7 steps forward;
+ Turn 90 degrees left;
+ Proceed forward 49 steps;
+ Turn left 90 degrees facing door;
+ Check to see that it is room 1035;
+ Open door;
+ Walk 2 steps forward;
+ Turn 90 degrees left;
+ Walk 8 steps forward;
+ Turn 90 degrees right;
+ Walk 8 steps forward;
+ Turn 90 degrees right;
+ Walk 6 steps forward;
+ Turn 90 degrees right;
+ Pull out chair;
+ Walk 1 step forward;
+ Sit in chair; 
+ IF (no chair)
+   THEN walk 2 steps forward;
+   ELSE walk 1 step backwards;
+ ENDIF;
+ Log on;
+END.
